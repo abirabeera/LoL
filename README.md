@@ -12,6 +12,6 @@
 `$ git clone https://github.com/abirabeera/LoL.git`
 
 
-`$ cd LoL
+`$ cd LoL`
 
 `$ python3 KNOX.py`
